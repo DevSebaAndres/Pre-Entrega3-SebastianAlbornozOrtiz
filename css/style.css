@@ -1,0 +1,184 @@
+.icon-color {
+  color: black;
+  font-size: 4rem;
+}
+
+.brand {
+  color: #f08c57;
+  font-size: 4rem;
+}
+
+header {
+  background-image: url(../img/header-escopeta.jpg);
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.nav-link {
+  color: white;
+}
+
+.titulo {
+  margin-left: 25rem;
+  font-size: 1.5rem;
+  color: black;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+}
+
+/* COLORES
+#DD550C naranja
+#FDFEFA blanco
+#582216 marron
+#010202 nigrou
+#391D16 marron oscuro
+
+*/
+/* Posicionamiento */
+.posicionamiento {
+  height: 300px;
+}
+
+.texto-posicionamiento {
+  font-family: "Roboto Condensed", sans-serif;
+  margin-top: 2rem;
+  color: black;
+  border: 3px solid grey;
+  border-radius: 15px;
+  background-color: #eea279;
+}
+
+.columna {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 1rem;
+  border: 1px solid grey;
+}
+
+.texto-columna {
+  font-family: "Instrument Serif", serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.camion {
+  font-size: 2rem;
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.tool {
+  font-size: 2rem;
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.grupo {
+  font-size: 2rem;
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.dardos {
+  color: #DD550C;
+  font-size: 12rem;
+  margin-top: 3rem;
+}
+
+.casa {
+  font-size: 2rem;
+}
+
+.universal {
+  margin-top: 10px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+footer {
+  margin-top: 40px;
+  background-color: black;
+  height: 300px;
+}
+footer h1 {
+  color: white;
+}
+
+.icon-footer {
+  padding-top: 40px;
+  margin-left: 20px;
+  font-size: 5rem;
+  color: white;
+}
+
+.house-color {
+  color: white;
+  font-size: 1.5rem;
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+.redes {
+  color: white;
+  margin-top: 2rem;
+}
+
+.social-media {
+  color: white;
+  font-size: 3rem;
+  margin-right: 20px;
+  margin-top: 1rem;
+}
+
+.info {
+  margin-right: 100px;
+  margin-top: 20px;
+  color: white;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+ul li {
+  margin-top: 30px;
+}
+
+.tanque {
+  margin-top: 2rem;
+}
+
+.seccion-armas {
+  height: 1500px;
+  background-image: url(../img/fondohdpistola.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.pistola {
+  margin-top: 2rem;
+}
+
+.text-pistolas {
+  font-size: 3rem;
+  color: black;
+  margin-top: 1rem;
+}
+
+/*# sourceMappingURL=style.css.map */

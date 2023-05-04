@@ -1,0 +1,63 @@
+footer{
+    margin-top:40px;
+    background-color: black;
+    height:300px;
+    h1{
+        color:white;
+    }  
+}
+
+.icon-footer{
+    padding-top:40px;
+    margin-left:20px;
+    font-size: 5rem;
+    color:white;
+  
+}
+
+
+
+.house-color{
+    color:white;
+    font-size: 1.5rem;
+    margin-top:4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content:start;
+
+ 
+}
+
+
+.redes{
+    color:white;
+    margin-top:2rem;
+
+}
+
+.social-media{
+    color:white;
+    font-size: 3rem;
+    margin-right:20px;
+    margin-top: 1rem;
+}
+
+.info{
+    margin-right:100px;
+    margin-top:20px;
+    color:white;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+ul{
+    li{
+        margin-top:30px;
+    }
+}
+
+.tanque{
+    margin-top:2rem;
+}

@@ -1,0 +1,77 @@
+/* Posicionamiento */
+
+.posicionamiento{
+    height:300px;;
+}
+
+
+.texto-posicionamiento{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top:2rem;
+    color:black;
+    border: 3px solid grey;
+    border-radius:15px;
+    background-color: #eea279 ;
+}
+
+
+
+.columna{
+    margin-top:2rem;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size:1rem;
+    border:1px solid grey;
+    
+}
+
+.texto-columna{
+    font-family: 'Instrument Serif', serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.camion{
+    font-size: 2rem;
+    color: black;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.tool{
+    font-size: 2rem;
+    color: black;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.grupo{
+    font-size: 2rem;
+    color: black;
+    padding-top:10px;
+    padding-bottom:10px;
+} 
+
+.dardos{
+    color:#DD550C ;
+    font-size: 12rem;
+    margin-top:3rem;
+}
+
+.casa{
+    font-size: 2rem;
+}
+
+.universal{
+    margin-top:10px;
+    color:white;
+    display:flex;
+    flex-direction: row;
+    justify-content: start;
+   
+}
+
+
+
